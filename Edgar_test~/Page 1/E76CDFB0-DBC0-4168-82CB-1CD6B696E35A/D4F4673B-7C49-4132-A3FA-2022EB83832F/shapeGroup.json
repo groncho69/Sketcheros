@@ -1,7 +1,7 @@
 {
   "_class": "shapeGroup",
   "clippingMaskMode": 0,
-  "do_objectID": "37E9A1FA-2F2A-442E-ACE1-DC85C46AC6D1",
+  "do_objectID": "D4F4673B-7C49-4132-A3FA-2022EB83832F",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 134,
-    "width": 375,
-    "x": 0,
-    "y": 0
+    "height": 136,
+    "width": 152,
+    "x": 29,
+    "y": 162
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -29,11 +29,11 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "6866FCE7-A05A-4DBD-87D2-53B575EA5607"
+      "id": "5ACD67E7-8089-4E52-A6ED-1B8207DDFCB0"
     }
   ],
-  "name": "bg",
-  "nameIsFixed": true,
+  "name": "Rectangle",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -63,43 +63,11 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8883756995201111,
-          "green": 0.326067849629275,
-          "red": 0.3143693506717682
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
-        "fillType": 1,
-        "gradient": {
-          "_class": "gradient",
-          "elipseLength": 0,
-          "from": "{0.5, 0}",
-          "gradientType": 0,
-          "shouldSmoothenOpacity": false,
-          "stops": [
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.9521452264336651,
-                "green": 0.5340771475524023,
-                "red": 0.8775206423806409
-              },
-              "position": 0
-            },
-            {
-              "_class": "gradientStop",
-              "color": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.8883756995201111,
-                "green": 0.326067849629275,
-                "red": 0.3143693506717682
-              },
-              "position": 1
-            }
-          ],
-          "to": "{0.5, 1}"
-        },
+        "fillType": 0,
         "isEnabled": true,
         "noiseIndex": 0,
         "noiseIntensity": 0,
